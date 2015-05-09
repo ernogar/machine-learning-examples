@@ -1,5 +1,5 @@
 # Machine Learning example applications
-### Programming exercises proposed in Stanford's machine learning online class on Coursera
+#### Programming exercises proposed in Stanford's machine learning online class on Coursera
 
 Applications of the different models can be found in the Examples folder
 
